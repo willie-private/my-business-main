@@ -219,22 +219,26 @@ export default function DocumentationPage() {
                   </div>
                   <ul>
                     <li>
-                      <a href="https://docs.bcera.io/whitepaper" style={{ color: "var(--accent)" }}>
+                      <a href="https://docs.bcera.io/whitepaper" style={{ color: "var(--accent)" }} target="_blank" 
+  rel="noopener noreferrer">
                         Full White Paper ↗
                       </a>
                     </li>
                     <li>
-                      <a href="https://docs.bcera.io/pitch-deck" style={{ color: "var(--accent)" }}>
+                      <a href="https://docs.bcera.io/pitch-deck" style={{ color: "var(--accent)" }} target="_blank" 
+  rel="noopener noreferrer">
                         Pitch Deck ↗
                       </a>
                     </li>
                     <li>
-                      <a href="https://docs.bcera.io/tokenomics#" style={{ color: "var(--accent)" }}>
+                      <a href="https://docs.bcera.io/tokenomics#" style={{ color: "var(--accent)" }} target="_blank" 
+  rel="noopener noreferrer">
                         Tokenomics Detail ↗
                       </a>
                     </li>
                     <li>
-                      <a href="https://docs.bcera.io/roadmap" style={{ color: "var(--accent)" }}>
+                      <a href="https://docs.bcera.io/roadmap" style={{ color: "var(--accent)" }} target="_blank" 
+  rel="noopener noreferrer">
                         Full Roadmap ↗
                       </a>
                     </li>
