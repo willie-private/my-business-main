@@ -578,8 +578,8 @@ export default function WhitePaperPage() {
         </p>
 
         <h2>Contact Information</h2>
-        <p>Website: bcera.com</p>
-        <p>Support: support.cco@bcera.com</p>
+        <p>Website: bcera.io</p>
+        <p>Support: support@bcera.io</p>
         <p>Social Media: Twitter, Discord, Telegram</p>
       </main>
     </SiteShell>

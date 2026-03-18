@@ -35,7 +35,7 @@ export default function Footer({ theme }) {   // ✅ receive theme
               >
                 in
               </a>
-              <a className="social-link" href="mailto:support.cco@bcera.com" title="Email">
+              <a className="social-link" href="mailto:support@bcera.io" title="Email">
                 ✉
               </a>
             </div>

@@ -337,8 +337,10 @@ export default function DocumentationPage() {
 
                     <p style={{ marginTop: 24 }}>
                       <a
-                        href="/whitepaper"
+                        href="https://docs.bcera.io/whitepaper"
                         className="btn btn-primary"
+                        target="_blank" 
+                        rel="noopener noreferrer"
                       >
                         Read Full White Paper ↗
                       </a>
@@ -424,7 +426,8 @@ export default function DocumentationPage() {
                     </div>
 
                     <p style={{ marginTop: 32 }}>
-                      <a href="/documentation/tokenomics" className="btn btn-primary">
+                      <a href="https://docs.bcera.io/tokenomics" className="btn btn-primary" target="_blank" 
+  rel="noopener noreferrer">
                         Full Tokenomics Document ↗
                       </a>
                     </p>
@@ -481,7 +484,8 @@ export default function DocumentationPage() {
                     </div>
 
                     <p style={{ marginTop: 32 }}>
-                      <a href="/documentation/roadmap" className="btn btn-primary">
+                      <a href="https://docs.bcera.io/roadmap" className="btn btn-primary" target="_blank" 
+  rel="noopener noreferrer">
                         View Full Roadmap ↗
                       </a>
                     </p>
@@ -561,7 +565,8 @@ export default function DocumentationPage() {
                           <a href="/contact" rel="noreferrer" className="btn btn-primary">
                             📅 Book Investor Meeting
                           </a>
-                          <a href="/documentation/pitch-deck" className="btn btn-outline">
+                          <a href="https://docs.bcera.io/pitch-deck" className="btn btn-outline" target="_blank" 
+  rel="noopener noreferrer">
                             View Pitch Deck ↗
                           </a>
                         </div>

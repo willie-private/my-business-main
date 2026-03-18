@@ -23,11 +23,11 @@ const contacts = [
     desc: "Connect with us on LinkedIn for partnership and business development conversations.",
   },
   {
-    href: "mailto:support.cco@bcera.com",
+    href: "mailto:support@bcera.io",
     icon: "✉️",
     title: "Email",
     badge: "General Support",
-    label: "support.cco@bcera.com",
+    label: "support@bcera.io",
     desc: "For detailed inquiries, partnerships, media, or investor relations — email us directly.",
   },
   {
