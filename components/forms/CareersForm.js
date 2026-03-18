@@ -363,8 +363,8 @@ export default function CareersForm() {
             {modal.type === "error" && (
               <div style={{ marginTop: 14, fontSize: 12, color: "var(--text-muted)" }}>
                 Tip: If it keeps failing, contact us at{" "}
-                <a style={{ color: "var(--accent)" }} href="mailto:support.cco@cryptocommerce.cloud">
-                  support.cco@cryptocommerce.cloud
+                <a style={{ color: "var(--accent)" }} href="mailto:support@bcera.io">
+                  support@bcera.io
                 </a>
               </div>
             )}

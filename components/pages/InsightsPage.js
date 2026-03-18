@@ -9,9 +9,9 @@ const articles = [
     category: "News",
     date: "Feb 28, 2026",
     readTime: "5 min",
-    title: "CryptoCommerce Co Launches CryptoCart Beta: The Future of Decentralized Shopping is Here",
+    title: "BC ERA Launches BCCart Beta: The Future of Decentralized Shopping is Here",
     excerpt:
-      "After months of development and community testing, CryptoCommerce Co officially launches CryptoCart in public beta — enabling merchants worldwide to build fully decentralized storefronts powered by Web3 wallets and smart contracts.",
+      "After months of development and community testing, BC ERA officially launches BCCart in public beta — enabling merchants worldwide to build fully decentralized storefronts powered by Web3 wallets and smart contracts.",
   },
   {
     id: 2,

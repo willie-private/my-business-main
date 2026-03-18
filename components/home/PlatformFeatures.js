@@ -1,7 +1,7 @@
 const features = [
   {
     icon: "🛒",
-    title: "CryptoCart",
+    title: "BCCart",
     desc: "Build fully decentralized e-commerce storefronts powered by Web3 wallets and smart contracts. Accept crypto natively — no intermediaries.",
   },
   {
@@ -21,8 +21,8 @@ const features = [
   },
   {
     icon: "🪙",
-    title: "BC ERA Token",
-    desc: "Power the ecosystem with the BC ERA token. Use it to access platform utilities, rewards, governance, and premium blockchain commerce features.",
+    title: "BCERA Token",
+    desc: "Power the ecosystem with the BCERA token. Use it to access platform utilities, rewards, governance, and premium blockchain commerce features.",
   },
   {
     icon: "🔗",

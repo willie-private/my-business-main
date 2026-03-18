@@ -16,23 +16,23 @@ export default function WhitePaperPage() {
         <p>
           Transposing from conventional online store construction to innovative blockchain-based solutions,
           Philippine-based visionary technology firm BC ERA is leading the way in e-commerce. Aiming clearly
-          to change the digital buying scene, the business presents Cryptocart, a distributed marketplace
+          to change the digital buying scene, the business presents BCCart, a distributed marketplace
           painstakingly designed to solve fundamental inefficiencies in the worldwide e-commerce industry.
           Inspired by the simplified operating concept of the e-commerce platform and greatly improved by
-          blockchain technology integration, Cryptocart transforms consumer and business online interaction.
+          blockchain technology integration, BCCart transforms consumer and business online interaction.
         </p>
         <p>
           Directly addressing urgent industry issues like the weight of excessive transaction costs, growing
-          data breach vulnerability, and limited worldwide accessibility is Cryptocart. Eliminating middlemen,
+          data breach vulnerability, and limited worldwide accessibility is BCCart. Eliminating middlemen,
           this innovative platform guarantees complete transparency and fair participation while allowing
           flawless, safe transactions between buyers and sellers. The BCERA token, a multifarious cryptocurrency
-          driving necessary platform activities, is the basis of this ecosystem. The CC coin is the pulse of
-          Cryptocart&apos;s distributed infrastructure, from allowing quick, low-cost payments to rewarding user
+          driving necessary platform activities, is the basis of this ecosystem. The BCERA coin is the pulse of
+          BCCart&apos;s distributed infrastructure, from allowing quick, low-cost payments to rewarding user
           participation through incentives to providing distributed governance that makes community stakeholders
           important decision-makers.
         </p>
         <p>
-          Using blockchain technology&apos;s unmatched openness, immutability, and decentralization, Cryptocart
+          Using blockchain technology&apos;s unmatched openness, immutability, and decentralization, BCCart
           creates an environment shaped by efficiency, security, and trust. Combining these developments with
           the familiar structures of conventional online platforms allows BC ERA to present a whole new
           possibility free from current constraints. Incorporating distributed finance (DeFi) features—such
@@ -40,11 +40,11 @@ export default function WhitePaperPage() {
           and therefore widening economic inclusion.
         </p>
         <p>
-          BC ERA sees Cryptocart as the last platform for distributed e-commerce, one that effortlessly
+          BC ERA sees BCCart as the last platform for distributed e-commerce, one that effortlessly
           connects the unmatched possibilities of blockchain technology with the availability of traditional
           markets. This innovative method promises to open a new era of global digital commerce—a time when
           inefficiencies are eliminated, consumers and creators enjoy enhanced agency, and digital trade develops
-          into a safe, inclusive, and user-centered environment. By means of Cryptocart and the CC coin, BC ERA
+          into a safe, inclusive, and user-centered environment. By means of BCCart and the BCERA coin, BC ERA
           is not only inventing but also inspiring a rethinking of business for a really distributed and fair
           digital economy.
         </p>
@@ -82,10 +82,10 @@ export default function WhitePaperPage() {
           trailblazers in a fast evolving sector dedicated to redefining how internet markets run.
         </p>
         <p>
-          Leading this change is Cryptocart, our main distributed marketplace. Blockchain&apos;s fundamental
+          Leading this change is BCCart, our main distributed marketplace. Blockchain&apos;s fundamental
           advantages—transparency, immutability, decentralization, and improved security—along with traditional
-          online buying conveniences—are seamlessly merged in Cryptocart. Unlike conventional e-commerce platforms,
-          which depend on middlemen and centralized processes, Cryptocart builds a direct, distributed, strong
+          online buying conveniences—are seamlessly merged in BCCart. Unlike conventional e-commerce platforms,
+          which depend on middlemen and centralized processes, BCCart builds a direct, distributed, strong
           environment where consumers and sellers engage freely using blockchain instead. For what does this
           indicate? Reduced seller fees and less costly, safer consumer transactions.
         </p>
@@ -102,7 +102,7 @@ export default function WhitePaperPage() {
           Originally driven to not only go above these constraints but also guide the sector toward a better,
           more inclusive future, BC ERA. Our experience is in delivering safe, efficient, and user-friendly
           solutions by integrating scalable technology infrastructures with innovative ideas. Supported by market
-          research and anchored in pragmatism, Cryptocart presents itself as the next development of e-commerce—a
+          research and anchored in pragmatism, BCCart presents itself as the next development of e-commerce—a
           paradigm designed for the billions of underprivileged companies, unbanked people, and digital-first
           customers looking dependability in a turbulent digital economy.
         </p>
@@ -112,36 +112,36 @@ export default function WhitePaperPage() {
           Our goal at BC ERA goes beyond building another marketplace; it is about changing the fundamental
           mechanics of online trade to make it fairer, more open, more generally accessible. We identified three
           main shortcomings in present e-commerce systems: centralized data systems compromising user privacy and
-          platform integrity; high transactional costs; limited geographical limits. Using Cryptocart, we are
+          platform integrity; high transactional costs; limited geographical limits. Using BCCart, we are
           directly tackling these issues and providing a solution that lowers inefficiencies and increases user
           agency and inclusiveness.
         </p>
         <p>
           Anchored on enabling users—buyers, sellers, and stakeholders all—through a completely distributed
-          ecosystem, Cryptocart serves. Using blockchain technology, the platform eliminates middlemen, therefore
+          ecosystem, BCCart serves. Using blockchain technology, the platform eliminates middlemen, therefore
           reducing transaction costs between 50 and 70% below current controlled markets. Small businesses, who
           account for 90% of all companies worldwide yet often lose large income to payment gateways and
           middlemen, especially find this relevant. Moreover, by using blockchain&apos;s borderless payment system,
-          Cryptocart overcomes conventional obstacles such as geographical limits and currency conversion charges,
+          BCCart overcomes conventional obstacles such as geographical limits and currency conversion charges,
           thereby enabling worldwide participation.
         </p>
         <p>
-          The backbone of Cryptocart&apos;s activities, the CC coin is vital for this ambition. Designed for
-          adaptability and simplicity, the CC cryptocurrency supports distributed governance, rewards active
-          platform players, and allows rapid payments. As token-based business models proliferate, Cryptocart
+          The backbone of BCCart&apos;s activities, the BCERA coin is vital for this ambition. Designed for
+          adaptability and simplicity, the BCERA cryptocurrency supports distributed governance, rewards active
+          platform players, and allows rapid payments. As token-based business models proliferate, BCCart
           makes sure value reaches its consumers—not centralized operators or stockholders. Users who complete
           transactions or provide evaluations, for instance, may get token-based rewards—an economic incentive
           system expected to increase user engagement by as much as 40%, based on blockchain adoption research.
         </p>
         <p>
-          Cryptocart also offers customers chances to generate passive income by using elements inspired by
+          BCCart also offers customers chances to generate passive income by using elements inspired by
           distributed finance (DeFi), including staking systems and liquidity awards. Particularly in
           underdeveloped economies where 70% of people still lack access to conventional banking services, this
           synergy between commerce and DeFi presents unprecedented opportunities for wealth generation and
           financial inclusion.
         </p>
         <p>
-          Cryptocart is ultimately a movement meant to change what online buying may and should be, not only a
+          BCCart is ultimately a movement meant to change what online buying may and should be, not only a
           venue. By eliminating the systematic inefficiencies of conventional models and releasing the full
           potential of blockchain, BC ERA is building a marketplace that is not only efficient but also
           essentially fair, safe, and flexible for the direction of world business. Our aim is to establish a
@@ -195,14 +195,14 @@ export default function WhitePaperPage() {
 
         <h2>Our Solution</h2>
         <p>
-          With Cryptocart, a blockchain-powered e-commerce platform providing creative, practical answers to
+          With BCCart, a blockchain-powered e-commerce platform providing creative, practical answers to
           systematic inefficiencies, BC ERA tackles these issues. Blockchain technology&apos;s openness, security,
           and automation combined with user-friendly interface transforms the worldwide e-commerce landscape.
         </p>
 
         <h3>Decentralized Marketplace</h3>
         <p>
-          The distributed design of Cryptocart, which does away with middlemen, drives its essence. By allowing
+          The distributed design of BCCart, which does away with middlemen, drives its essence. By allowing
           buyers to interact directly with vendors, this lowers transaction costs by 50%–70% as compared to
           conventional systems. Companies keep more of their profits while customers pay more competitive rates.
           Since no one organization controls platform rules or operations, decentralization also guarantees fair
@@ -211,9 +211,9 @@ export default function WhitePaperPage() {
 
         <h3>Blockchain-Powered Security</h3>
         <p>
-          Using the immutable and distributed ledger of blockchain, Cryptocart builds a safe transactional space.
+          Using the immutable and distributed ledger of blockchain, BCCart builds a safe transactional space.
           Blockchain records transactions openly and tamper-proof, therefore drastically lowering fraud risks
-          unlike centralized databases vulnerable to assaults. By using encrypted smart contracts, Cryptocart not
+          unlike centralized databases vulnerable to assaults. By using encrypted smart contracts, BCCart not
           only removes vulnerabilities but also lets transactions run just when specified criteria are satisfied,
           thereby safeguarding sellers as well as purchasers.
         </p>
@@ -223,14 +223,14 @@ export default function WhitePaperPage() {
           By removing geographical and financial limitations, cryptocurrency levels the playing field. Any user
           with internet connection can join regardless of their financial situation by means of its
           cryptocurrency-based payment method. With about 420 million cryptocurrency users worldwide as of 2023,
-          Cryptocart creates a borderless industry where companies may access previously inaccessible markets.
+          BCCart creates a borderless industry where companies may access previously inaccessible markets.
           Moreover, crypto payments simplify world trade by avoiding outrageous currency translation fees,
           thereby promoting cross-border business.
         </p>
 
         <h3>Tokenized Rewards with the BCERA token</h3>
         <p>
-          Forming the backbone of Cryptocart&apos;s ecosystem, the BCERA token transforms user involvement by means of
+          Forming the backbone of BCCart&apos;s ecosystem, the BCERA token transforms user involvement by means of
           tokenized incentives. BCERA token holders get access to platform advantages like cashback incentives,
           payment savings, and unique deals. By giving users voting rights on important platform choices, the
           token also promotes community governance. With research demonstrating that token-based incentive systems
@@ -240,7 +240,7 @@ export default function WhitePaperPage() {
 
         <h3>Integration with Decentralized Finance (DeFi)</h3>
         <p>
-          Cryptocart adds creative DeFi mechanisms to expand its value proposition. Staking CC coins allows users
+          BCCart adds creative DeFi mechanisms to expand its value proposition. Staking BCERA coins allows users
           to generate passive income or help liquidity pools, therefore generating fresh sources of financial
           development. This function enables consumers even more, especially in underprivileged areas where
           conventional banking institutions deny many individuals access to chances for wealth creation.
@@ -248,7 +248,7 @@ export default function WhitePaperPage() {
 
         <h3>Sustainability and Transparency</h3>
         <p>
-          Using blockchain&apos;s natural openness, Cryptocart creates a platform where every participant—buyers,
+          Using blockchain&apos;s natural openness, BCCart creates a platform where every participant—buyers,
           sellers, token holders—may instantly audit activities. This guarantees responsibility, increases
           consumer confidence, and establishes a new industry standard for moral behavior and dependability on
           digital markets.
@@ -324,7 +324,7 @@ export default function WhitePaperPage() {
         <p>
           Blockchain, cryptocurrencies, artificial intelligence, IoT, and digital payment innovations taken
           together are turning e-commerce into a very safe, inclusive, highly efficient environment. Leading this
-          change are platforms like Cryptocart, which use blockchain ideas like the CC coin to solve problems and
+          change are platforms like BCCart, which use blockchain ideas like the BCERA coin to solve problems and
           provide fresh possibilities.
         </p>
         <ul>
@@ -401,9 +401,9 @@ export default function WhitePaperPage() {
 
         <h2>Competitive Landscape</h2>
         <p>
-          Numerous players are emerging to address the inefficiencies in e-commerce. Among them, Cryptocart
+          Numerous players are emerging to address the inefficiencies in e-commerce. Among them, BCCart
           distinguishes itself by integrating blockchain and tokenization into its business model. Unlike
-          traditional marketplaces and even blockchain predecessors, Cryptocart provides a comprehensive solution
+          traditional marketplaces and even blockchain predecessors, BCCart provides a comprehensive solution
           that offers transparency, lower costs, and cutting-edge personalization.
         </p>
 
@@ -416,25 +416,25 @@ export default function WhitePaperPage() {
 
         <h1>Project Overview</h1>
 
-        <h2>What is Cryptocart?</h2>
+        <h2>What is BCCart?</h2>
         <p>
-          Cryptocart is a groundbreaking decentralized e-commerce platform built on blockchain technology. It
+          BCCart is a groundbreaking decentralized e-commerce platform built on blockchain technology. It
           seamlessly connects buyers and sellers from around the world, bypassing traditional intermediaries to
           enable fast, secure, and cost-effective transactions. By leveraging the power of decentralization,
-          Cryptocart enhances transparency, security, and user engagement, solving many of the persistent issues
+          BCCart enhances transparency, security, and user engagement, solving many of the persistent issues
           that plague traditional e-commerce models.
         </p>
         <p>
-          At its core, Cryptocart represents the next stage in the evolution of online retail, combining the
+          At its core, BCCart represents the next stage in the evolution of online retail, combining the
           efficiency of blockchain with innovative features that empower both consumers and merchants in equal
           measure.
         </p>
 
-        <h3>Key Features of Cryptocart</h3>
+        <h3>Key Features of BCCart</h3>
         <ul>
           <li>Decentralized Marketplace</li>
           <li>Secure and Fraud-Resistant Purchases</li>
-          <li>Integrated Cryptocurrency Token (CC)</li>
+          <li>Integrated Cryptocurrency Token (BCERA)</li>
           <li>Loyalty and Engagement Features</li>
           <li>Global Accessibility</li>
         </ul>
@@ -443,7 +443,7 @@ export default function WhitePaperPage() {
 
         <h3>Overview of the BCERA token</h3>
         <p>
-          The <strong>BCERA token</strong> serves as the lifeblood of the Cryptocart ecosystem, meticulously designed
+          The <strong>BCERA token</strong> serves as the lifeblood of the BCCart ecosystem, meticulously designed
           to power platform operations, incentivize participation, and foster a thriving decentralized economy.
           Acting as both a utility asset and a governance tool, the BCERA token goes beyond the functionality of
           traditional cryptocurrencies by unlocking dynamic, real-world applications, creating financial
@@ -472,28 +472,28 @@ export default function WhitePaperPage() {
 
         <h3>Smart Contracts</h3>
         <p>
-          Core to the Cryptocart platform are smart contracts. Operating directly on the blockchain, these
+          Core to the BCCart platform are smart contracts. Operating directly on the blockchain, these
           self-executing agreements enforce transaction conditions using programmable code, therefore eliminating
           middlemen.
         </p>
 
         <h3>Layer-2 Solutions</h3>
         <p>
-          Cryptocart employs Layer-2 solutions to enhance transaction speeds while minimizing blockchain
+          BCCart employs Layer-2 solutions to enhance transaction speeds while minimizing blockchain
           congestion and fees. Layer-2 operates atop the main blockchain, managing transactional workflows
           off-chain to improve scalability without compromising security.
         </p>
 
         <h3>Decentralized Identity Verification</h3>
         <p>
-          Cryptocart prioritizes user privacy and security through decentralized identity verification. Unlike
+          BCCart prioritizes user privacy and security through decentralized identity verification. Unlike
           traditional e-commerce platforms that store sensitive personal data in centralized databases,
-          Cryptocart uses a decentralized approach to protect user credentials.
+          BCCart uses a decentralized approach to protect user credentials.
         </p>
 
         <h3>Scalability and Flexibility</h3>
         <p>
-          The modular design ensures future scalability and adaptability, enabling Cryptocart to include upcoming
+          The modular design ensures future scalability and adaptability, enabling BCCart to include upcoming
           innovations such as integrations with artificial intelligence and the Internet of Things.
         </p>
 
@@ -523,40 +523,40 @@ export default function WhitePaperPage() {
 
         <h2>Governance and Strategic Framework</h2>
         <p>
-          Cryptocart is built on a foundation of transparency, community engagement, and innovation. By leveraging
+          BCCart is built on a foundation of transparency, community engagement, and innovation. By leveraging
           blockchain governance, strategic partnerships, and robust ecosystem participation, BC ERA aims to create
           a sustainable and user-centric platform.
         </p>
 
         <h3>Governance</h3>
         <p>
-          The governance structure of Cryptocart is designed to prioritize democratized decision-making and
+          The governance structure of BCCart is designed to prioritize democratized decision-making and
           community-driven growth. Through the integration of a Decentralized Autonomous Organization (DAO), token
           holders gain an active role in shaping the platform.
         </p>
 
         <h3>Strategic Partnerships</h3>
         <p>
-          Strategic partnerships form an integral part of Cryptocart&apos;s roadmap, helping to amplify reach and
+          Strategic partnerships form an integral part of BCCart&apos;s roadmap, helping to amplify reach and
           solidify its position in the global e-commerce landscape.
         </p>
 
         <h3>Community and Ecosystem Engagement</h3>
         <p>
-          Cryptocart places the community at the core of its ecosystem, fostering engagement and active
+          BCCart places the community at the core of its ecosystem, fostering engagement and active
           participation through innovative staking mechanisms and gamified features.
         </p>
 
         <h2>Risk Assessment</h2>
         <p>
-          Cryptocart adopts a proactive approach to identifying and mitigating risks to maintain operational
+          BCCart adopts a proactive approach to identifying and mitigating risks to maintain operational
           longevity and user trust. Core risk areas include regulatory compliance, adoption challenges, and
           security threats.
         </p>
 
         <h2>Legal & Compliance</h2>
         <p>
-          Cryptocart operates with a strong emphasis on transparency and adherence to international regulations.
+          BCCart operates with a strong emphasis on transparency and adherence to international regulations.
           BC ERA aims to align operations with Philippine regulatory standards and relevant international compliance
           frameworks for privacy, security, and digital operations.
         </p>

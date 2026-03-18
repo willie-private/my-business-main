@@ -6,17 +6,17 @@ export default function FlagshipProduct() {
           <div>
             <span className="section-label">Flagship Product</span>
             <h2 className="section-title">
-              Meet <span>CryptoCart</span>
+              Meet <span>BCCart</span>
             </h2>
 
             <p className="section-desc" style={{ marginBottom: 24 }}>
-              CryptoCart is BC ERA's flagship platform for building blockchain-powered commerce storefronts.
+              BCCart is BC ERA's flagship platform for building blockchain-powered commerce storefronts.
               Connect your Web3 wallet, configure your shop, and start selling globally — all without a bank account or
               payment processor.
             </p>
 
             <p className="section-desc" style={{ marginBottom: 32 }}>
-              Powered by smart contract escrow, real-time on-chain settlement, and multi-currency support, CryptoCart
+              Powered by smart contract escrow, real-time on-chain settlement, and multi-currency support, BCCart
               puts merchants fully in control of their blockchain commerce operations.
             </p>
 
@@ -40,7 +40,7 @@ export default function FlagshipProduct() {
                 marginBottom: 8,
               }}
             >
-              CryptoCart
+              BCCart
             </div>
 
             <div style={{ color: "var(--text-muted)", marginBottom: 24, fontSize: 14 }}>
@@ -54,7 +54,7 @@ export default function FlagshipProduct() {
                 "Multi-Currency",
                 "Zero Chargebacks",
                 "Global Reach",
-                "BC ERA Token",
+                "BCERA Token",
               ].map((t) => (
                 <div key={t} className="flagship-feature-item">
                   <span className="flagship-check">✓</span> {t}

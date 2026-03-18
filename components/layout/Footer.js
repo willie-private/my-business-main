@@ -44,7 +44,7 @@ export default function Footer({ theme }) {   // ✅ receive theme
           <div className="footer-col">
             <h4>Platform</h4>
             <ul>
-              <li><Link href="/documentation">CryptoCart</Link></li>
+              <li><Link href="/documentation">BCCart</Link></li>
               <li><Link href="/documentation">White Paper</Link></li>
               <li><Link href="/documentation">Tokenomics</Link></li>
               <li><Link href="/documentation">Roadmap</Link></li>

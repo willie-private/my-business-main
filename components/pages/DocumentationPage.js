@@ -19,7 +19,7 @@ const roadmap = [
       "Company incorporation in Philippines",
       "Core team assembly",
       "Smart contract architecture design",
-      "CryptoCart MVP development",
+      "BCCart MVP development",
       "Internal security audits",
     ],
     status: "active",
@@ -29,7 +29,7 @@ const roadmap = [
     period: "Q3–Q4 2026",
     title: "Product Launch & Token",
     items: [
-      "CryptoCart public beta launch",
+      "BCCart public beta launch",
       "BCERA token generation event (TGE)",
       "Private sale rounds",
       "Merchant onboarding program",
@@ -44,7 +44,7 @@ const roadmap = [
     items: [
       "Multi-chain bridge integration",
       "Public sale launch",
-      "CC staking & governance launch",
+      "BCERA staking & governance launch",
       "Partnership program with Philippine businesses",
       "Mobile app launch",
     ],
@@ -96,7 +96,7 @@ export default function DocumentationPage() {
               <span className="accent">Technical</span> Documentation
             </h1>
             <p className="hero-desc">
-              Deep-dive into the CryptoCommerce Co protocol — white paper, tokenomics, roadmap, and pitch deck.
+              Deep-dive into the BC ERA protocol — white paper, tokenomics, roadmap, and pitch deck.
             </p>
           </div>
         </div>
@@ -155,7 +155,7 @@ export default function DocumentationPage() {
                 <div className="doc-section">
                   <h2>📄 White Paper</h2>
                   <p>
-                    The CryptoCommerce Co White Paper presents the technical and economic framework for a fully decentralized
+                    The BC ERA White Paper presents the technical and economic framework for a fully decentralized
                     e-commerce ecosystem, powered by blockchain technology and governed by the BCERA token community.
                   </p>
 
@@ -166,7 +166,7 @@ export default function DocumentationPage() {
                     maintain opaque data practices that disadvantage sellers and buyers alike.
                   </p>
                   <p>
-                    CryptoCommerce Co proposes an open, permissionless commerce infrastructure built on programmable smart
+                    BC ERA proposes an open, permissionless commerce infrastructure built on programmable smart
                     contracts, enabling peer-to-peer transactions without intermediaries, with transparent fee structures and
                     immutable transaction records.
                   </p>
@@ -177,7 +177,7 @@ export default function DocumentationPage() {
                 <div className="doc-section">
                   <h2>🪙 Tokenomics — BCERA token</h2>
                   <p>
-                    The BCERA token is the native utility and governance token of the CryptoCommerce protocol. It powers merchant
+                    The BCERA token is the native utility and governance token of the BC ERA protocol. It powers merchant
                     incentives, platform governance, staking rewards, and access to premium features.
                   </p>
 
@@ -188,9 +188,9 @@ export default function DocumentationPage() {
                         title: "Governance",
                         desc: "Vote on protocol upgrades, fee parameters, and treasury allocation.",
                       },
-                      { title: "Staking", desc: "Stake CC to earn yield from platform transaction fees." },
+                      { title: "Staking", desc: "Stake BCERA to earn yield from platform transaction fees." },
                       { title: "Premium Features", desc: "Unlock advanced merchant tools, analytics, and priority support." },
-                      { title: "Payment Discounts", desc: "Pay platform fees in CC at a significant discount vs. other tokens." },
+                      { title: "Payment Discounts", desc: "Pay platform fees in BCERA at a significant discount vs. other tokens." },
                     ].map((x) => (
                       <div key={x.title} className="card" style={{ padding: "18px" }}>
                         <div className="card-title" style={{ marginBottom: "8px" }}>
@@ -207,7 +207,7 @@ export default function DocumentationPage() {
                 <div className="doc-section">
                   <h2>🗺️ Roadmap</h2>
                   <p>
-                    CryptoCommerce Co&apos;s development roadmap is structured in five phases, taking the platform from initial
+                    BC ERA&apos;s development roadmap is structured in five phases, taking the platform from initial
                     infrastructure to full protocol decentralization and global commerce dominance.
                   </p>
 
@@ -236,7 +236,7 @@ export default function DocumentationPage() {
                 <div className="doc-section">
                   <h2>📊 Pitch Deck</h2>
                   <p>
-                    CryptoCommerce Co&apos;s investor pitch deck provides an overview of the market opportunity, competitive
+                    BC ERA&apos;s investor pitch deck provides an overview of the market opportunity, competitive
                     advantages, team, and projections for decentralized commerce infrastructure.
                   </p>
 

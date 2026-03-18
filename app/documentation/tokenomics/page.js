@@ -18,7 +18,7 @@ export default function TokenomicsPage() {
 
         <h2>Overview of Tokenomics</h2>
         <p>
-          The BCERA token forms the integral backbone of BC ERA&apos;s marketplace platform, <strong>Cryptocart</strong>,
+          The BCERA token forms the integral backbone of BC ERA&apos;s marketplace platform, <strong>BCCart</strong>,
           driving the platform&apos;s ecosystem. This native cryptocurrency is meticulously designed to
           power transactions, incentivize users, and enable decentralized governance. The BCERA token
           aligns with the vision of a decentralized, secure, and transparent marketplace that
@@ -30,7 +30,7 @@ export default function TokenomicsPage() {
 
         <p>
           Designed for utility, governance, and scalability, the BCERA token aligns with the long-term
-          goals of Cryptocart, promoting inclusivity, financial autonomy, and innovation in global
+          goals of BCCart, promoting inclusivity, financial autonomy, and innovation in global
           e-commerce.
         </p>
 
@@ -41,7 +41,7 @@ export default function TokenomicsPage() {
           <li>
             <p>
               <strong>Role</strong>: The BCERA token is utilized as the primary currency within the
-              Cryptocart ecosystem, enabling frictionless payments while significantly reducing
+              BCCart ecosystem, enabling frictionless payments while significantly reducing
               transaction costs compared to traditional processors.
             </p>
           </li>
@@ -109,7 +109,7 @@ export default function TokenomicsPage() {
             <p>
               <strong>Example</strong>: A frequent buyer can receive a 10% cashback in BCERA tokens for
               shopping above a certain threshold, creating a win-win scenario for both the buyer and
-              Cryptocart merchants.
+              BCCart merchants.
             </p>
           </li>
         </ul>
@@ -134,7 +134,7 @@ export default function TokenomicsPage() {
               <li>
                 <p>
                   By staking tokens, participants contribute to liquidity and stability within the
-                  Cryptocart ecosystem.
+                  BCCart ecosystem.
                 </p>
               </li>
             </ul>
@@ -143,7 +143,7 @@ export default function TokenomicsPage() {
             <p>
               <strong>Example</strong>: An investor stakes 10,000 BCERA tokens for 12 months at a 15%
               APY, earning 1,500 BCERA tokens in passive income while simultaneously supporting the
-              liquidity pools that power Cryptocart operations.
+              liquidity pools that power BCCart operations.
             </p>
           </li>
         </ul>
@@ -181,7 +181,7 @@ export default function TokenomicsPage() {
           <li>
             <p>
               <strong>Example</strong>: Token holders may collectively vote on reducing transaction
-              fees for small merchants or expanding Cryptocart&apos;s ecosystem to additional geographical markets.
+              fees for small merchants or expanding BCCart&apos;s ecosystem to additional geographical markets.
             </p>
           </li>
         </ul>
@@ -219,7 +219,7 @@ export default function TokenomicsPage() {
           <li>
             <p>
               <strong>Example</strong>: A merchant participating in liquidity mining earns rewards that
-              offset their operational costs on the Cryptocart platform.
+              offset their operational costs on the BCCart platform.
             </p>
           </li>
         </ul>
@@ -231,7 +231,7 @@ export default function TokenomicsPage() {
             <ul>
               <li>
                 <p>
-                  Cryptocart&apos;s cryptocurrency-based infrastructure ensures that unbanked or
+                  BCCart&apos;s cryptocurrency-based infrastructure ensures that unbanked or
                   underserved populations can participate in e-commerce transactions.
                 </p>
               </li>
@@ -360,7 +360,7 @@ export default function TokenomicsPage() {
                   <li>
                     <p>
                       Regional marketing campaigns in high-potential areas such as Southeast Asia or Africa,
-                      focusing on showcasing Cryptocart&apos;s benefits to underserved markets.
+                      focusing on showcasing BCCart&apos;s benefits to underserved markets.
                     </p>
                   </li>
                 </ul>
@@ -424,7 +424,7 @@ export default function TokenomicsPage() {
 
         <h2>Alignment with Ecosystem Goals</h2>
         <p>
-          The BCERA token is engineered to promote and sustain Cryptocart&apos;s overarching goal of
+          The BCERA token is engineered to promote and sustain BCCart&apos;s overarching goal of
           creating a decentralized, fair, and inclusive retail environment.
         </p>
 
@@ -472,17 +472,17 @@ export default function TokenomicsPage() {
 
         <h3>Long-Term Vision</h3>
         <p>
-          Cryptocart envisions the BCERA token as a multi-dimensional asset powering future platform
+          BCCart envisions the BCERA token as a multi-dimensional asset powering future platform
           innovations, including AI-driven analytics, personalized shopping experiences, and extended
           DeFi integrations. By providing financial inclusivity and driving engagement in underserved
-          parts of the world, Cryptocart and the BCERA token are positioned to redefine e-commerce,
+          parts of the world, BCCart and the BCERA token are positioned to redefine e-commerce,
           making it accessible and rewarding for all.
         </p>
 
         <p>
-          With robust tokenomics, a fair allocation strategy, and clearly defined benefits, the CC
+          With robust tokenomics, a fair allocation strategy, and clearly defined benefits, the BCERA
           token creates tangible and scalable value for stakeholders, ensuring the long-term success
-          of Cryptocart&apos;s decentralized vision.
+          of BCCart&apos;s decentralized vision.
         </p>
       </main>
     </SiteShell>

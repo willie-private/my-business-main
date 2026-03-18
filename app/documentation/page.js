@@ -291,7 +291,7 @@ export default function DocumentationPage() {
 
                     <h3>The BC ERA Solution</h3>
                     <p>
-                      Our platform introduces a suite of decentralized commerce tools anchored by Cryptocart — a
+                      Our platform introduces a suite of decentralized commerce tools anchored by BCCart — a
                       storefront builder that enables anyone with a Web3 wallet to launch a fully functional online
                       shop. Payments flow directly between buyer and seller wallets via audited smart contracts, with
                       optional escrow protection. No banks. No intermediaries. No censorship.
