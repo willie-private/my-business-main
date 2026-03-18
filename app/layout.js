@@ -6,8 +6,8 @@ const orbitron = Orbitron({ subsets: ["latin"], weight: ["400", "600", "700", "9
 const spaceMono = Space_Mono({ subsets: ["latin"], weight: ["400", "700"] });
 
 export const metadata = {
-  title: "Bc Era Co",
-  description: "Bc Era Co — Bridging Traditional Online Shopping with Blockchain Innovation",
+  title: "BC ERA",
+  description: "BC ERA — Bridging Traditional Online Shopping with Blockchain Innovation",
   icons: { icon: "/favicon.ico" },
 };
 

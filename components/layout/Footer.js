@@ -95,7 +95,7 @@ export default function Footer({ theme }) {   // ✅ receive theme
         </div>
 
         <div className="footer-bottom">
-          <span>© 2025 Bc Era Co. All rights reserved. · Philippines</span>
+          <span>© 2025 BC ERA. All rights reserved. · Philippines</span>
           <span style={{ color: "var(--accent)", fontFamily: "Space Mono, monospace", fontSize: 12 }}>
             Secure · Transparent · Borderless
           </span>
