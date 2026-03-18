@@ -18,18 +18,18 @@ export default function TokenomicsPage() {
 
         <h2>Overview of Tokenomics</h2>
         <p>
-          The CC token forms the integral backbone of BC ERA&apos;s marketplace platform, <strong>Cryptocart</strong>,
+          The BCERA token forms the integral backbone of BC ERA&apos;s marketplace platform, <strong>Cryptocart</strong>,
           driving the platform&apos;s ecosystem. This native cryptocurrency is meticulously designed to
-          power transactions, incentivize users, and enable decentralized governance. The CC token
+          power transactions, incentivize users, and enable decentralized governance. The BCERA token
           aligns with the vision of a decentralized, secure, and transparent marketplace that
           eliminates inefficiencies while empowering buyers, merchants, and community stakeholders.
-          With its multifaceted functionality, the CC token supports seamless payments, rewards
+          With its multifaceted functionality, the BCERA token supports seamless payments, rewards
           engagement, and opens avenues for passive income via staking and decentralized finance
           (DeFi) opportunities.
         </p>
 
         <p>
-          Designed for utility, governance, and scalability, the CC token aligns with the long-term
+          Designed for utility, governance, and scalability, the BCERA token aligns with the long-term
           goals of Cryptocart, promoting inclusivity, financial autonomy, and innovation in global
           e-commerce.
         </p>
@@ -40,7 +40,7 @@ export default function TokenomicsPage() {
         <ul>
           <li>
             <p>
-              <strong>Role</strong>: The CC token is utilized as the primary currency within the
+              <strong>Role</strong>: The BCERA token is utilized as the primary currency within the
               Cryptocart ecosystem, enabling frictionless payments while significantly reducing
               transaction costs compared to traditional processors.
             </p>
@@ -64,7 +64,7 @@ export default function TokenomicsPage() {
           <li>
             <p>
               <strong>Example</strong>: A merchant in the Philippines selling handcrafted goods can
-              receive payment in CC tokens from a buyer in Germany instantly, avoiding expensive
+              receive payment in BCERA tokens from a buyer in Germany instantly, avoiding expensive
               international transaction fees and waiting periods.
             </p>
           </li>
@@ -78,7 +78,7 @@ export default function TokenomicsPage() {
               <li>
                 <p>
                   Token-based rewards for buyers, allowing cash back incentives and payment discounts
-                  when utilizing CC tokens.
+                  when utilizing BCERA tokens.
                 </p>
               </li>
               <li>
@@ -94,7 +94,7 @@ export default function TokenomicsPage() {
             <ul>
               <li>
                 <p>
-                  Merchants can offer promotions through CC token rewards to incentivize customer retention.
+                  Merchants can offer promotions through BCERA token rewards to incentivize customer retention.
                 </p>
               </li>
               <li>
@@ -107,7 +107,7 @@ export default function TokenomicsPage() {
           </li>
           <li>
             <p>
-              <strong>Example</strong>: A frequent buyer can receive a 10% cashback in CC tokens for
+              <strong>Example</strong>: A frequent buyer can receive a 10% cashback in BCERA tokens for
               shopping above a certain threshold, creating a win-win scenario for both the buyer and
               Cryptocart merchants.
             </p>
@@ -121,7 +121,7 @@ export default function TokenomicsPage() {
             <ul>
               <li>
                 <p>
-                  CC tokens can be staked in dedicated staking pools, offering rewards to token
+                  BCERA tokens can be staked in dedicated staking pools, offering rewards to token
                   holders in the form of annual percentage yields (APYs).
                 </p>
               </li>
@@ -141,8 +141,8 @@ export default function TokenomicsPage() {
           </li>
           <li>
             <p>
-              <strong>Example</strong>: An investor stakes 10,000 CC tokens for 12 months at a 15%
-              APY, earning 1,500 CC tokens in passive income while simultaneously supporting the
+              <strong>Example</strong>: An investor stakes 10,000 BCERA tokens for 12 months at a 15%
+              APY, earning 1,500 BCERA tokens in passive income while simultaneously supporting the
               liquidity pools that power Cryptocart operations.
             </p>
           </li>
@@ -155,7 +155,7 @@ export default function TokenomicsPage() {
             <ul>
               <li>
                 <p>
-                  CC token holders gain voting rights proportional to their token holdings under a
+                  BCERA token holders gain voting rights proportional to their token holdings under a
                   Decentralized Autonomous Organization (DAO) framework.
                 </p>
               </li>
@@ -193,7 +193,7 @@ export default function TokenomicsPage() {
             <ul>
               <li>
                 <p>
-                  Gamified liquidity mining opportunities allow users to supply liquidity to CC token
+                  Gamified liquidity mining opportunities allow users to supply liquidity to BCERA token
                   pools in return for additional rewards.
                 </p>
               </li>
@@ -237,7 +237,7 @@ export default function TokenomicsPage() {
               </li>
               <li>
                 <p>
-                  The CC token&apos;s decentralized nature allows widespread global participation without
+                  The BCERA token&apos;s decentralized nature allows widespread global participation without
                   the barriers of traditional banking systems or geographical restrictions.
                 </p>
               </li>
@@ -245,9 +245,9 @@ export default function TokenomicsPage() {
           </li>
         </ul>
 
-        <h2>CC Token Distribution</h2>
+        <h2>BCERA token Distribution</h2>
         <p>
-          The CC token supply is hard-capped at <strong>1 billion tokens</strong>, ensuring scarcity
+          The BCERA token supply is hard-capped at <strong>1 billion tokens</strong>, ensuring scarcity
           and long-term value creation for holders. The token allocation strategy is designed to
           balance ecosystem development, incentivize community participation, and fund operational growth.
         </p>
@@ -256,7 +256,7 @@ export default function TokenomicsPage() {
 
         <ol>
           <li>
-            <p><strong>20% Public Sale (200 million CC tokens)</strong></p>
+            <p><strong>20% Public Sale (200 million BCERA tokens)</strong></p>
             <ul>
               <li>
                 <p>Purpose:</p>
@@ -283,7 +283,7 @@ export default function TokenomicsPage() {
           </li>
 
           <li>
-            <p><strong>20% Team and Operations (200 million CC tokens)</strong></p>
+            <p><strong>20% Team and Operations (200 million BCERA tokens)</strong></p>
             <ul>
               <li>
                 <p>Purpose:</p>
@@ -311,7 +311,7 @@ export default function TokenomicsPage() {
           </li>
 
           <li>
-            <p><strong>40% Staking and Rewards (400 million CC tokens)</strong></p>
+            <p><strong>40% Staking and Rewards (400 million BCERA tokens)</strong></p>
             <ul>
               <li>
                 <p>Purpose:</p>
@@ -341,7 +341,7 @@ export default function TokenomicsPage() {
           </li>
 
           <li>
-            <p><strong>10% Marketing (100 million CC tokens)</strong></p>
+            <p><strong>10% Marketing (100 million BCERA tokens)</strong></p>
             <ul>
               <li>
                 <p>Purpose:</p>
@@ -369,7 +369,7 @@ export default function TokenomicsPage() {
           </li>
 
           <li>
-            <p><strong>10% Reserve Fund (100 million CC tokens)</strong></p>
+            <p><strong>10% Reserve Fund (100 million BCERA tokens)</strong></p>
             <ul>
               <li>
                 <p>Purpose:</p>
@@ -424,7 +424,7 @@ export default function TokenomicsPage() {
 
         <h2>Alignment with Ecosystem Goals</h2>
         <p>
-          The CC token is engineered to promote and sustain Cryptocart&apos;s overarching goal of
+          The BCERA token is engineered to promote and sustain Cryptocart&apos;s overarching goal of
           creating a decentralized, fair, and inclusive retail environment.
         </p>
 
@@ -472,10 +472,10 @@ export default function TokenomicsPage() {
 
         <h3>Long-Term Vision</h3>
         <p>
-          Cryptocart envisions the CC token as a multi-dimensional asset powering future platform
+          Cryptocart envisions the BCERA token as a multi-dimensional asset powering future platform
           innovations, including AI-driven analytics, personalized shopping experiences, and extended
           DeFi integrations. By providing financial inclusivity and driving engagement in underserved
-          parts of the world, Cryptocart and the CC token are positioned to redefine e-commerce,
+          parts of the world, Cryptocart and the BCERA token are positioned to redefine e-commerce,
           making it accessible and rewarding for all.
         </p>
 

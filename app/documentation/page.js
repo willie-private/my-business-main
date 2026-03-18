@@ -252,7 +252,7 @@ export default function DocumentationPage() {
                     <h2>📄 White Paper</h2>
                     <p>
                       The BC ERA White Paper presents the technical and economic framework for a fully decentralized
-                      e-commerce ecosystem, powered by blockchain technology and governed by the CC token community.
+                      e-commerce ecosystem, powered by blockchain technology and governed by the BCERA token community.
                     </p>
 
                     <h3>Executive Summary</h3>

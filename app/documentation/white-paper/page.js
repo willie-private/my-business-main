@@ -25,7 +25,7 @@ export default function WhitePaperPage() {
           Directly addressing urgent industry issues like the weight of excessive transaction costs, growing
           data breach vulnerability, and limited worldwide accessibility is Cryptocart. Eliminating middlemen,
           this innovative platform guarantees complete transparency and fair participation while allowing
-          flawless, safe transactions between buyers and sellers. The CC token, a multifarious cryptocurrency
+          flawless, safe transactions between buyers and sellers. The BCERA token, a multifarious cryptocurrency
           driving necessary platform activities, is the basis of this ecosystem. The CC coin is the pulse of
           Cryptocart&apos;s distributed infrastructure, from allowing quick, low-cost payments to rewarding user
           participation through incentives to providing distributed governance that makes community stakeholders
@@ -228,13 +228,13 @@ export default function WhitePaperPage() {
           thereby promoting cross-border business.
         </p>
 
-        <h3>Tokenized Rewards with the CC Token</h3>
+        <h3>Tokenized Rewards with the BCERA token</h3>
         <p>
-          Forming the backbone of Cryptocart&apos;s ecosystem, the CC token transforms user involvement by means of
-          tokenized incentives. CC token holders get access to platform advantages like cashback incentives,
+          Forming the backbone of Cryptocart&apos;s ecosystem, the BCERA token transforms user involvement by means of
+          tokenized incentives. BCERA token holders get access to platform advantages like cashback incentives,
           payment savings, and unique deals. By giving users voting rights on important platform choices, the
           token also promotes community governance. With research demonstrating that token-based incentive systems
-          may raise customer involvement by up to 40%, encouraging consumers through CC tokens improves loyalty
+          may raise customer involvement by up to 40%, encouraging consumers through BCERA tokens improves loyalty
           and retention for businesses.
         </p>
 
@@ -441,11 +441,11 @@ export default function WhitePaperPage() {
 
         <h2>Tokenomics</h2>
 
-        <h3>Overview of the CC Token</h3>
+        <h3>Overview of the BCERA token</h3>
         <p>
-          The <strong>CC token</strong> serves as the lifeblood of the Cryptocart ecosystem, meticulously designed
+          The <strong>BCERA token</strong> serves as the lifeblood of the Cryptocart ecosystem, meticulously designed
           to power platform operations, incentivize participation, and foster a thriving decentralized economy.
-          Acting as both a utility asset and a governance tool, the CC token goes beyond the functionality of
+          Acting as both a utility asset and a governance tool, the BCERA token goes beyond the functionality of
           traditional cryptocurrencies by unlocking dynamic, real-world applications, creating financial
           opportunities, and aligning the platform&apos;s growth with its community&apos;s interests.
         </p>

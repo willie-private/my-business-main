@@ -40,7 +40,7 @@ export default function RoadmapPage() {
         </p>
 
         <p>
-          At the same time, BC ERA is getting the word out about its CC token through a pre-sale.
+          At the same time, BC ERA is getting the word out about its BCERA token through a pre-sale.
           Early adopters get the chance to buy into the platform’s vision while funding its
           development. And to top it off, there’s a beta launch where a small group of users—think
           merchants and savvy buyers—can test drive Cryptocart. Their feedback will help fine-tune
@@ -62,7 +62,7 @@ export default function RoadmapPage() {
 
         <p>
           The platform comes with all the bells and whistles promised in the early stages, including
-          staking pools and rewards programs. Buyers can earn cashback in CC tokens for their
+          staking pools and rewards programs. Buyers can earn cashback in BCERA tokens for their
           purchases, while merchants enjoy insanely low transaction costs and instant payments—imagine
           getting paid right as the transaction happens!
         </p>
@@ -90,7 +90,7 @@ export default function RoadmapPage() {
 
         <p>
           The coolest part here? Users get a say in how that happens. Thanks to decentralized
-          governance, CC token holders become more than just participants—they’re decision-makers.
+          governance, BCERA token holders become more than just participants—they’re decision-makers.
           Whether it’s about rolling out new features, adjusting fee structures, or expanding into
           new markets, the community provides input and votes. This builds trust by ensuring the
           platform evolves based on what the users really want.

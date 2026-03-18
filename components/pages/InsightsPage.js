@@ -49,9 +49,9 @@ const articles = [
     category: "News",
     date: "Jan 30, 2026",
     readTime: "4 min",
-    title: "CC Token Utility Expansion: Staking, Governance, and Premium Feature Access Explained",
+    title: "BCERA token Utility Expansion: Staking, Governance, and Premium Feature Access Explained",
     excerpt:
-      "The CC token is more than a currency — it's the backbone of platform governance, merchant incentives, and community rewards. Here's everything you need to know about the expanded token utility framework.",
+      "The BCERA token is more than a currency — it's the backbone of platform governance, merchant incentives, and community rewards. Here's everything you need to know about the expanded token utility framework.",
   },
   {
     id: 6,

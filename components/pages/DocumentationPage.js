@@ -30,7 +30,7 @@ const roadmap = [
     title: "Product Launch & Token",
     items: [
       "CryptoCart public beta launch",
-      "CC token generation event (TGE)",
+      "BCERA token generation event (TGE)",
       "Private sale rounds",
       "Merchant onboarding program",
       "First exchange listings",
@@ -156,7 +156,7 @@ export default function DocumentationPage() {
                   <h2>📄 White Paper</h2>
                   <p>
                     The CryptoCommerce Co White Paper presents the technical and economic framework for a fully decentralized
-                    e-commerce ecosystem, powered by blockchain technology and governed by the CC token community.
+                    e-commerce ecosystem, powered by blockchain technology and governed by the BCERA token community.
                   </p>
 
                   <h3>Executive Summary</h3>
@@ -175,9 +175,9 @@ export default function DocumentationPage() {
 
               {active === "tokenomics" && (
                 <div className="doc-section">
-                  <h2>🪙 Tokenomics — CC Token</h2>
+                  <h2>🪙 Tokenomics — BCERA token</h2>
                   <p>
-                    The CC token is the native utility and governance token of the CryptoCommerce protocol. It powers merchant
+                    The BCERA token is the native utility and governance token of the CryptoCommerce protocol. It powers merchant
                     incentives, platform governance, staking rewards, and access to premium features.
                   </p>
 

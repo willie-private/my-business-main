@@ -96,7 +96,7 @@ export default function PitchDeckPage() {
 
         <h3>Tokenized Incentives</h3>
         <p>
-          Cryptocart’s native CC token rewards users for transactions, reviews, and other contributions,
+          Cryptocart’s native BCERA token rewards users for transactions, reviews, and other contributions,
           creating an active, vibrant community economy.
         </p>
 
@@ -129,7 +129,7 @@ export default function PitchDeckPage() {
         </p>
 
         <h2>Tokenomics</h2>
-        <h3>The CC Token</h3>
+        <h3>The BCERA token</h3>
         <p>
           Cryptocart’s native token, CC, powers a dynamic incentivized economy.
         </p>
@@ -157,7 +157,7 @@ export default function PitchDeckPage() {
         <p><strong>Phase 1 (Q1 2025):</strong></p>
         <ul>
           <li>Finalize platform development</li>
-          <li>Conduct CC token pre-sale and initiate beta testing</li>
+          <li>Conduct BCERA token pre-sale and initiate beta testing</li>
         </ul>
 
         <p><strong>Phase 2 (Q2 2025):</strong></p>
