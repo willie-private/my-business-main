@@ -203,7 +203,7 @@ export default function AboutPage() {
         <div className="divider" />
 
         {/* LEADERSHIP */}
-        <section className="section">
+        {/*<section className="section">
           <div className="container">
             <div style={{ textAlign: "center", marginBottom: 60 }}>
               <span className="section-label">Leadership</span>
@@ -236,11 +236,11 @@ export default function AboutPage() {
             </div>
           </div>
         </section>
-
+*/}
         <div className="divider" />
 
         {/* ADVISORS */}
-        <section className="section" style={{ background: "var(--bg2)" }}>
+        {/*<section className="section" style={{ background: "var(--bg2)" }}>
           <div className="container">
             <div style={{ textAlign: "center", marginBottom: 60 }}>
               <span className="section-label">Advisory Board</span>
@@ -268,7 +268,7 @@ export default function AboutPage() {
               ))}
             </div>
           </div>
-        </section>
+        </section>*/}
       </main>
       
     </SiteShell>
